@@ -1,0 +1,61 @@
+case_id,crime_type,location_id,date,status
+C001,Robbery,L019,2026-03-16,Under Investigation
+C002,Smuggling,L020,2025-03-03,Closed
+C003,Extortion,L004,2025-08-01,Closed
+C004,Fraud,L009,2025-03-25,Open
+C005,Fraud,L006,2026-07-20,Open
+C006,Fraud,L001,2026-02-23,Under Investigation
+C007,Extortion,L020,2026-04-27,Under Investigation
+C008,Theft,L008,2025-10-23,Closed
+C009,Robbery,L023,2026-04-10,Open
+C010,Extortion,L008,2025-09-28,Closed
+C011,Smuggling,L022,2025-07-22,Under Investigation
+C012,Theft,L018,2025-08-19,Closed
+C013,Fraud,L009,2025-05-26,Open
+C014,Theft,L006,2025-11-11,Closed
+C015,Extortion,L019,2025-10-23,Under Investigation
+C016,Theft,L015,2025-11-08,Closed
+C017,Cybercrime,L009,2026-05-28,Closed
+C018,Cybercrime,L015,2025-03-24,Closed
+C019,Theft,L014,2025-11-27,Closed
+C020,Robbery,L001,2025-04-04,Open
+C021,Extortion,L019,2026-08-25,Open
+C022,Vehicle Theft,L022,2025-10-03,Closed
+C023,Theft,L025,2025-06-29,Under Investigation
+C024,Smuggling,L021,2026-03-29,Under Investigation
+C025,Fraud,L019,2026-03-23,Closed
+C026,Vehicle Theft,L016,2025-04-04,Under Investigation
+C027,Robbery,L014,2025-12-08,Under Investigation
+C028,Extortion,L004,2025-06-14,Under Investigation
+C029,Cybercrime,L023,2026-05-23,Under Investigation
+C030,Extortion,L013,2026-07-18,Open
+C031,Cybercrime,L003,2025-11-19,Under Investigation
+C032,Robbery,L004,2026-02-18,Closed
+C033,Vehicle Theft,L001,2026-07-10,Under Investigation
+C034,Cybercrime,L002,2025-07-12,Closed
+C035,Robbery,L020,2026-05-26,Closed
+C036,Cybercrime,L025,2025-02-22,Open
+C037,Robbery,L018,2025-05-15,Under Investigation
+C038,Cybercrime,L023,2026-05-12,Open
+C039,Theft,L021,2026-09-16,Open
+C040,Extortion,L006,2025-11-15,Closed
+C041,Theft,L018,2026-02-22,Open
+C042,Fraud,L004,2026-04-18,Open
+C043,Extortion,L005,2026-05-26,Closed
+C044,Robbery,L017,2025-10-07,Under Investigation
+C045,Vehicle Theft,L016,2026-04-29,Open
+C046,Cybercrime,L018,2025-05-29,Under Investigation
+C047,Fraud,L020,2026-06-05,Closed
+C048,Fraud,L003,2025-10-10,Under Investigation
+C049,Robbery,L017,2025-10-01,Open
+C050,Robbery,L024,2025-11-02,Closed
+C051,Smuggling,L022,2026-05-17,Open
+C052,Cybercrime,L018,2026-05-11,Under Investigation
+C053,Robbery,L018,2026-07-11,Under Investigation
+C054,Cybercrime,L011,2025-07-13,Closed
+C055,Fraud,L019,2026-01-28,Open
+C056,Vehicle Theft,L025,2026-02-25,Open
+C057,Robbery,L024,2026-04-30,Closed
+C058,Vehicle Theft,L013,2026-01-31,Closed
+C059,Vehicle Theft,L021,2025-06-05,Under Investigation
+C060,Theft,L005,2026-05-30,Closed

@@ -1,0 +1,26 @@
+location_id,location_name,city,latitude,longitude
+L001,Central Station,Mumbai,18.597297,73.674487
+L002,Industrial Area,Thane,19.282459,73.614064
+L003,Market Road,Pune,18.693486,73.537375
+L004,Airport Road,Mumbai,18.820796,72.788725
+L005,Harbor District,Thane,18.644677,73.566587
+L006,East Junction,Thane,18.784624,73.570536
+L007,West Junction,Pune,18.645216,73.410033
+L008,Old Town,Thane,18.761088,73.614353
+L009,Business Park,Nashik,18.786261,73.259406
+L010,Tech Park,Nashik,19.433161,72.865342
+L011,North Gate,Nashik,18.596425,73.712534
+L012,South Gate,Nashik,18.442083,73.346571
+L013,Warehouse Zone,Nashik,19.2014,73.063677
+L014,Residential Block,Mumbai,18.823715,73.326588
+L015,City Mall,Nashik,18.448825,73.186058
+L016,Metro Hub,Pune,18.800644,72.819974
+L017,Highway Toll,Nashik,19.085471,73.413387
+L018,Bus Terminal,Mumbai,19.19173,73.050322
+L019,Rail Yard,Nashik,19.133582,73.076183
+L020,Dock Area,Nashik,19.009854,72.94184
+L021,Commercial Street,Thane,19.14505,73.652806
+L022,University Area,Nashik,18.846683,73.583725
+L023,Medical District,Nashik,18.715605,73.179888
+L024,Ring Road,Nashik,18.911487,73.19216
+L025,Suburban Hub,Pune,18.962291,73.543735
